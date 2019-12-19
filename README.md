@@ -1,1 +1,2 @@
 # Qualeaty
+Welcome to Qualeaty!
